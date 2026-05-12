@@ -6,8 +6,8 @@ window.SITE_CONFIG = {
    * Path to your top-left logo image (e.g. assets/logo.png).
    * Leave empty ("") to hide the logo until you have one.
    */
-  logoSrc: "assets/logo.png",
-  logoAlt: "Blue Heaven Aerospace Corporation",
+  logoSrc: "",
+  logoAlt: "Site logo",
 
   /**
    * Main headline. Use either:
